@@ -25,7 +25,8 @@ A classic memory game built using **HTML**, **CSS**, and **JavaScript**. The goa
 
 ## 📷 Screenshot
 
-![Simon Game Screenshot](simon-entry.png) <!-- Optional: add an image of your game UI -->
+![Simon Game Screenshot](screenshot/simon-entry.png) 
+![Simon Game Screenshot](screenshot/simon-game-level.png) 
 
 ## 📁 Setup
 
